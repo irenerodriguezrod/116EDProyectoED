@@ -49,59 +49,60 @@
 		<li>Pendiente de finalización❓</li>
 	</p>
 	<table>
-		<thead>
-			<tr>
-				<th>Tarea<th>
-				<th>Explicación de la tarea</th>
-				<th>Práctica</th>
-				<th>Estado (✅, ❌,❓)</th>
-			</tr>
-		</thead>
-        <tbody>
-            <tr>
-                <td>01 - Herramientas utilizadas en DAW</td>
-                <td>Herramientas que se utilizan en el ciclo formativo</td>
-                <td><a href="https://github.com/irenerodriguezrod/116EDProyectoED/blob/main/webroot/documentos/HerramientasUtilizadasEnDAW1.pdf">HerramientasUtilizadasEnDAW1</a></td>
-                <td>✅</td>
-            </tr>
-            <tr>
-                <td>02.1 - Ejemplo de uso NetBeans</td>
-                <td>Manual de uso de NetBeans</td>
-                <td><a href="https://github.com/irenerodriguezrod/116EDProyectoED/blob/main/webroot/documentos/EjemploDeUsoNb.pdf">EjemploDeUsoNb</a></td>
-                <td>✅</td>
-            </tr>
-            <tr>
-                <td>02.2 - Ejemplo de uso Filezilla</td>
-                <td>Manual de uso de Filezilla</td>
-                <td>EjemploDeUsoFilezilla</td>
-                <td>❌</td>
-            </tr>
-            <tr>
-                <td>02.3 - Ejemplo de uso WorkBench</td>
-                <td>Manual de uso de WorkBench</td>
-                <td>EjemploDeUsoWorkBench</td>
-                <td>❌</td>
-            </tr>
-            <tr>
-                <td>02.4 - Ejemplo de uso VisualStudioCode</td>
-                <td>Manual de uso de VisualStudioCode</td>
-                <td>EjemploDeUsoVS</td>
-                <td>❌</td>
-            </tr>
-            <tr>
-                <td>02.5 - Ejemplo de uso GITHub</td>
-                <td>Manual de uso de GITHub</td>
-                <td>EjemploDeUsoGITHub</td>
-                <td>❌</td>
-            </tr>
-            <tr>
-                <td>02.6 - Ejemplo de uso IA</td>
-                <td>Manual de uso de IA</td>
-                <td>EjemploDeUsoIA</td>
-                <td>❌</td>
-            </tr>
-        </tbody>
-    </table>
+    <thead>
+        <tr>
+            <th>Tarea</th>
+            <th>Explicación de la tarea</th>
+            <th>Práctica</th>
+            <th>Estado (✅, ❌, ❓)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>01 - Herramientas utilizadas en DAW</td>
+            <td>Herramientas que se utilizan en el ciclo formativo</td>
+            <td><a href="https://github.com/irenerodriguezrod/116EDProyectoED/blob/main/webroot/documentos/HerramientasUtilizadasEnDAW1.pdf">HerramientasUtilizadasEnDAW1</a></td>
+            <td>✅</td>
+        </tr>
+        <tr>
+            <td>02.1 - Ejemplo de uso NetBeans</td>
+            <td>Manual de uso de NetBeans</td>
+            <td><a href="https://github.com/irenerodriguezrod/116EDProyectoED/blob/main/webroot/documentos/EjemploDeUsoNb.pdf">EjemploDeUsoNb</a></td>
+            <td>✅</td>
+        </tr>
+        <tr>
+            <td>02.2 - Ejemplo de uso Filezilla</td>
+            <td>Manual de uso de Filezilla</td>
+            <td>EjemploDeUsoFilezilla</td>
+            <td>❌</td>
+        </tr>
+        <tr>
+            <td>02.3 - Ejemplo de uso WorkBench</td>
+            <td>Manual de uso de WorkBench</td>
+            <td>EjemploDeUsoWorkBench</td>
+            <td>❌</td>
+        </tr>
+        <tr>
+            <td>02.4 - Ejemplo de uso VisualStudioCode</td>
+            <td>Manual de uso de VisualStudioCode</td>
+            <td>EjemploDeUsoVS</td>
+            <td>❌</td>
+        </tr>
+        <tr>
+            <td>02.5 - Ejemplo de uso GitHub</td>
+            <td>Manual de uso de GitHub</td>
+            <td>EjemploDeUsoGitHub</td>
+            <td>❌</td>
+        </tr>
+        <tr>
+            <td>02.6 - Ejemplo de uso IA</td>
+            <td>Manual de uso de IA</td>
+            <td>EjemploDeUsoIA</td>
+            <td>❌</td>
+        </tr>
+    </tbody>
+</table>
+
 </div>
 
 <br>
