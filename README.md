@@ -48,7 +48,7 @@
 		<li>Pendiente de subida❌</li>
 		<li>Pendiente de finalización❓</li>
 	</p>
-		<table>
+	<table>
 		<thead>
 			<tr>
 				<th>Tarea<th>
@@ -101,6 +101,7 @@
                 <td>❌</td>
             </tr>
         </tbody>
+    </table>
 </div>
 
 <br>
