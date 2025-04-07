@@ -8,13 +8,6 @@
 
 <br>
 
-<div align="center">
-	<img src="https://media1.tenor.com/m/VTJqEYl5xwQAAAAC/hazard-hazard-tape.gif" alt="Divider cinta amarilla y negra"
-	width="800">
-</div>
-
-<br>
-
 <div>
 	<h2>
 		<img src="https://media.tenor.com/uj-429a6v-YAAAAi/pixel-art-gmail.gif"
@@ -55,61 +48,62 @@
             <th>Explicación de la tarea</th>
             <th>Práctica</th>
             <th>Estado (✅, ❌, ❓)</th>
+            <th>Fecha de última revisión 🗓️</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>01 - Herramientas utilizadas en DAW</td>
-            <td>Herramientas que se utilizan en el ciclo formativo</td>
+            <td>01 - Herramientas utilizadas en DAW1</td>
+            <td>Herramientas que se utilizan en el ciclo formativo y problemas que me encuentro al utilizarlas</td>
             <td><a href="https://github.com/irenerodriguezrod/116EDProyectoED/blob/main/webroot/documentos/HerramientasUtilizadasEnDAW1.pdf">HerramientasUtilizadasEnDAW1</a></td>
             <td>✅</td>
+            <td>21/03/2025</td>
         </tr>
         <tr>
             <td>02.1 - Ejemplo de uso NetBeans</td>
-            <td>Manual de uso de NetBeans</td>
+            <td>Manual de uso de NetBeans en el que se incluyen las diferentes utilidades que tiene la herramienta que estamos utilizando</td>
             <td><a href="https://github.com/irenerodriguezrod/116EDProyectoED/blob/main/webroot/documentos/EjemploDeUsoNb.pdf">EjemploDeUsoNb</a></td>
             <td>✅</td>
+            <td>03/04/2025</td>
         </tr>
         <tr>
             <td>02.2 - Ejemplo de uso Filezilla</td>
-            <td>Manual de uso de Filezilla</td>
+            <td>Manual de uso de Filezilla con las diferentes utilidades que tiene</td>
             <td>EjemploDeUsoFilezilla</td>
             <td>❌</td>
+            <td>--/--/--</td>
         </tr>
         <tr>
             <td>02.3 - Ejemplo de uso WorkBench</td>
             <td>Manual de uso de WorkBench</td>
             <td>EjemploDeUsoWorkBench</td>
             <td>❌</td>
+            <td>--/--/--</td>
         </tr>
         <tr>
             <td>02.4 - Ejemplo de uso VisualStudioCode</td>
             <td>Manual de uso de VisualStudioCode</td>
             <td>EjemploDeUsoVS</td>
             <td>❌</td>
+            <td>--/--/--</td>
         </tr>
         <tr>
             <td>02.5 - Ejemplo de uso GitHub</td>
             <td>Manual de uso de GitHub</td>
             <td>EjemploDeUsoGitHub</td>
             <td>❌</td>
+            <td>--/--/--</td>
         </tr>
         <tr>
             <td>02.6 - Ejemplo de uso IA</td>
-            <td>Manual de uso de IA</td>
+            <td>Manual de uso de IA en el que se enseñan los diferentes usos que tiene</td>
             <td>EjemploDeUsoIA</td>
             <td>❌</td>
+            <td>--/--/--</td>
         </tr>
     </tbody>
 </table>
 
-</div>
-
-<br>
-
-<div align="center">
-	<img src="https://media1.tenor.com/m/VTJqEYl5xwQAAAAC/hazard-hazard-tape.gif" alt="Divider cinta amarilla y negra"
-	width="800">
 </div>
 
 <br>
@@ -128,7 +122,7 @@
 	<p>
 		Última modificación:
 		<i>
-			26 de marzo de 2025
+			07 de abril de 2025
 		</i>
 	</p>
 </div>
