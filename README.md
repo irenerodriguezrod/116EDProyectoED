@@ -74,6 +74,20 @@
             <td>--/--/--</td>
         </tr>
         <tr>
+            <td>02.3 - Ejemplo de uso GitHub</td>
+            <td>Manual de uso de GitHub</td>
+            <td>EjemploDeUsoGitHub</td>
+            <td>❌</td>
+            <td>--/--/--</td>
+        </tr>
+        <tr>
+            <td>02.4 - Ejemplo de uso GitBash</td>
+            <td>Manual de uso de Git</td>
+            <td>EjemploDeUsoGitBash</td>
+            <td>❌</td>
+            <td>--/--/--</td>
+        </tr>
+        <tr>
             <td>02.3 - Ejemplo de uso WorkBench</td>
             <td>Manual de uso de WorkBench</td>
             <td>EjemploDeUsoWorkBench</td>
@@ -84,13 +98,6 @@
             <td>02.4 - Ejemplo de uso VisualStudioCode</td>
             <td>Manual de uso de VisualStudioCode</td>
             <td>EjemploDeUsoVS</td>
-            <td>❌</td>
-            <td>--/--/--</td>
-        </tr>
-        <tr>
-            <td>02.5 - Ejemplo de uso GitHub</td>
-            <td>Manual de uso de GitHub</td>
-            <td>EjemploDeUsoGitHub</td>
             <td>❌</td>
             <td>--/--/--</td>
         </tr>
