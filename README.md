@@ -53,11 +53,17 @@
     </thead>
     <tbody>
         <tr>
+            <td colspan="5" align="center"><b>APARTADO 1: HERRAMIENTAS UTILIZADAS<b></td>
+        </tr>
+        <tr>
             <td>01 - Herramientas utilizadas en DAW1</td>
             <td>Herramientas que se utilizan en el ciclo formativo y problemas que me encuentro al utilizarlas</td>
             <td><a href="https://github.com/irenerodriguezrod/116EDProyectoED/blob/main/webroot/documentos/HerramientasUtilizadasEnDAW1.pdf">HerramientasUtilizadasEnDAW1</a></td>
             <td>✅</td>
             <td>21/03/2025</td>
+        </tr>
+        <tr>
+            <td colspan="5" align="center"><b>APARTADO 2: MANUALES DE USO<b></td>
         </tr>
         <tr>
             <td>02.1 - Ejemplo de uso NetBeans</td>
@@ -108,6 +114,16 @@
             <td>❌</td>
             <td>--/--/--</td>
         </tr>
+        <tr>
+            <td colspan="5" align="center"><b>APARTADO 3: UML - ANÁLISIS Y DISEÑO<b></td>
+        </tr>
+        <tr>
+            <td>03 - Ejemplo de análisis UML</td>
+            <td>Ejemplo de un modelo UML</td>
+            <td>EjemploDeUML</td>
+            <td>❌</td>
+            <td>--/--/--</td>
+        </tr>
     </tbody>
 </table>
 
@@ -129,7 +145,7 @@
 	<p>
 		Última modificación:
 		<i>
-			07 de abril de 2025
+			15 de mayo de 2025
 		</i>
 	</p>
 </div>
